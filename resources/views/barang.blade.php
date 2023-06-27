@@ -30,6 +30,7 @@
                         <div class="col-md-10">
                                 <div class="shadow-sm p-3 mb-5 bg-body-tertiary rounded ">
                                     <h2 align="center"><b>DATA BARANG</b></h2>
+                                    <h5>Toko Serba Ada</h5>
                                 </div>
                                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">
                                 Tambah Data
